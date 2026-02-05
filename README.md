@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/chinthaka-lakshan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+    <img src="./github" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
 </div>
 <br/>
