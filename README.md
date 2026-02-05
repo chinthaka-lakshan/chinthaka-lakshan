@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=250&section=header&text=Hi%20👋%20I'm%20Lakshan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20www.chinthakalakshan.com&descAlign=50&descAlignY=60&descSize=20&v=2" width="100%"/>
-</div>
+</div> -->
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Lᴀᴋsʜᴀɴ! 
 <div align="center">
