@@ -1,13 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,441350&height=250&section=header&text=Hi%20👋%20I'm%20Lakshan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlign=50&descAlignY=60&descSize=20" width="100%"/>
-</div>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=250&section=header&text=Hi%20👋%20I'm%20Lakshan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20www.chinthakalakshan.com&descAlign=50&descAlignY=60&descSize=20&v=2" width="100%"/>
+</div> -->
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Lᴀᴋsʜᴀɴ! 
 <div align="center">
   <img src="https://raw.githubusercontent.com/chinthaka-lakshan/chinthaka-lakshan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-<div>
-  <img align="right" width="20%" src="./bot.png">
 </div>
 <br /> 
 
@@ -41,7 +38,9 @@
       </table>
     </td>
     <td width="30%" valign="center">
-      <img src="https://ouch-cdn2.icons8.com/fRjY40z4i8r6qH1jUa0dO-Vb9z2w1i6.png" width="100%">
+      <div>
+        <img align="right" width="100%" src="./bot.png">
+      </div>
     </td>
   </tr>
 </table>
