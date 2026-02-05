@@ -58,14 +58,18 @@
 
 <div align="center">
   <h2>📊 My Contributions</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=chinthaka-lakshan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinthaka-lakshan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  <a href="https://github.com/chinthaka-lakshan">
+    <img src="https://github-readme-stats.vercel.app/api?username=chinthaka-lakshan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
+  </a>
+  <a href="https://github.com/chinthaka-lakshan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinthaka-lakshan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/chinthaka-lakshan/chinthaka-lakshan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/chinthaka-lakshan/chinthaka-lakshan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
