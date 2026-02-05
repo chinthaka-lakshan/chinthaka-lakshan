@@ -2,12 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,000000,441350&height=250&section=header&text=Hi%20👋%20I'm%20Lakshan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20from%20Sri%20Lanka&descAlign=50&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
-<div>
-  <img align="right" width="20%" src=(./bot)>
-</div>
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Lᴀᴋsʜᴀɴ! 
-*Full Stack Developer (Laravel / Vue.js)*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/chinthaka-lakshan/chinthaka-lakshan/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+<div>
+  <img align="right" width="20%" src="./bot.png">
+</div>
 <br /> 
 
 <table>
